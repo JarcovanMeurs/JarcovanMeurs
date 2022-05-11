@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JarcovanMeurs, I'm a 20 years old frond- and back-end developer living in the Netherlands. 
+- 👋 Hi, I’m @JarcovanMeurs, I'm a 20 years old frond- and back-end developer living in 🇳🇱 the Netherlands. 
 - 👀 I’m interested in web- and appdevelopment.
 - 🌱 I’m currently learning Java, Hibernate and struts 2.
 

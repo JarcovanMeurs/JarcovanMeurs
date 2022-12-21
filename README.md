@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JarcovanMeurs, a 20 years old full-stack developer, 🏠living in the Netherlands. 
+- 👋 Hi, I’m @JarcovanMeurs, a 21 years old full-stack developer, 🏠living in the Netherlands. 
 - 👀 I’m interested in web- and appdevelopment.
 - 🌱 I’m currently learning Vue.js combined with tailwindCSS.
 

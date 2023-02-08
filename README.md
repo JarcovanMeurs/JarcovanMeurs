@@ -11,6 +11,7 @@
   - Java: Struts 2, Hibernate
   - JS: Vue 3
   - PHP: Symfony
+  - Mobile: Flutter
 
 <!---
 JarcovanMeurs/JarcovanMeurs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
